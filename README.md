@@ -70,6 +70,9 @@ Stellar-Campus-Grant/
 │   └── main.jsx
 ├── package.json
 └── README.md
+```
+
+---
 
 ## Screenshots
 
